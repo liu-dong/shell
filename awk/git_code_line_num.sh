@@ -1,3 +1,5 @@
+#!/bin/sh
+
 # write by    : yuanquan.ld@gmail.com
 # date        : 2015-10-11
 # version     : 0.0.1
